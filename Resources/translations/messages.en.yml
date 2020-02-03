@@ -1,0 +1,8 @@
+contact:
+    sending_success: "Thanks ! We will answer as soon as possible."
+    sending_failed: "An error happened when sending the mail. Please try again or contact directly contact@worldtravelers.io.. :("
+    name: "Name"
+    email: "Mail"
+    phone: "Phone (Optional)"
+    message: "Message"
+    submit: "Send"

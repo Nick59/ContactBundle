@@ -1,0 +1,8 @@
+contact:
+    sending_success: "Merci ! Nous allons tenter de vous répondre au plus vite."
+    sending_failed: "Nous n'avons pas pu envoyé votre message, vous pouvez tenter de contacter directement contact@binariesworld.com. :("
+    name: "Nom"
+    email: "Email"
+    phone: "Téléphone (Optionnel)"
+    message: "Message"
+    submit: "Envoyer"
